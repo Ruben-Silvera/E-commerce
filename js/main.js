@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 const finalizarCompra = () => {
     vaciarCarrito();
-    alert('Finalizar compra PD: El profe no tiene 17'); 
+    alert('Listo persona rica PD: El profe no tiene 17'); 
 };
 
 
